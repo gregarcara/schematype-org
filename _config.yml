@@ -1,0 +1,21 @@
+layout: page
+title: SchemaType (title)
+tagline: Data Definition Language for YAML and JSON (tagline)
+
+author:
+  name: Ingy döt Net
+  email: ingy+schematype@ingy.net
+  github: ingydotnet
+  twitter: ingydotnet
+
+email: ingy@schematype.org
+description: >
+  SchemaType is a Data Definition Language for YAML, JSON and other data
+  formats that use the same model.
+baseurl: ''
+url: http://schematype.org
+twitter_username: schematype
+github_username:  schematype
+
+# Build settings
+markdown: kramdown

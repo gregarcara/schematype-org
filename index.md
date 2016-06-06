@@ -1,0 +1,5 @@
+---
+---
+## SchemaType
+
+Front Page
